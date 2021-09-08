@@ -14,8 +14,10 @@ Here are some more Jupyter notebooks and resources for exploring GLAM data.
 ## Teaching and learning
 
 * [Collections as data](https://github.com/jcoliver/dig-coll-borderlands), Jeffrey C. Oliver – downloading and analyzing scanned OCR text from a collection of southwestern US borderlands newspapers
-* [Getting started with ODate](https://o-date.github.io/support/notebooks-toc/), Shawn Graham
 * [Computational Archival Science Educational System](https://cases.umd.edu/), Advanced Information Collaboratory
+* [Constellate](https://constellate.org/), ITHAKA
+* [Getting started with ODate](https://o-date.github.io/support/notebooks-toc/), Shawn Graham
+* [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html), Melanie Walsh
 * [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks), Quinn Dombrowski, Tassie Gniady, and David Kloster, Programming Historian
 
 ## Other lists
