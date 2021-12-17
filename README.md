@@ -5,6 +5,7 @@ Here are some more Jupyter notebooks and resources for exploring GLAM data.
 ## GLAM insitutions
 
 * [ACMI public API – Interactive examples](https://www.acmi.net.au/api/)
+* [Collections As Data Notebooks](https://github.com/upenndigitalscholarship/collections-as-data-notebooks), Penn Libraries
 * [Data exploration](https://github.com/LibraryOfCongress/data-exploration), Library of Congress Labs
 * [Data Foundry](https://data.nls.uk/tools/jupyter-notebooks/), National Library of Scotland
 * [Datasets and Digital objects](https://www.dnb.de/DE/Professionell/Services/WissenschaftundForschung/DNBLab/dnblab_node.html), Deutsche National Bibliotek
