@@ -19,6 +19,7 @@ Here are some more Jupyter notebooks and resources for exploring GLAM data.
 * [Computational Archival Science Educational System](https://cases.umd.edu/), Advanced Information Collaboratory
 * [Constellate](https://constellate.org/), ITHAKA
 * [Getting started with ODate](https://o-date.github.io/support/notebooks-toc/), Shawn Graham
+* [Humanities Data Analysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/), Folgert Karsdorp, Mike Kestemont, and Allen Riddell
 * [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html), Melanie Walsh
 * [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks), Quinn Dombrowski, Tassie Gniady, and David Kloster, Programming Historian
 
