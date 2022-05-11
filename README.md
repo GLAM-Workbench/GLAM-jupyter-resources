@@ -8,10 +8,11 @@ Here are some more Jupyter notebooks and resources for exploring GLAM data.
 * [Collections As Data Notebooks](https://github.com/upenndigitalscholarship/collections-as-data-notebooks), Penn Libraries
 * [Data exploration](https://github.com/LibraryOfCongress/data-exploration), Library of Congress Labs
 * [Data Foundry](https://data.nls.uk/tools/jupyter-notebooks/), National Library of Scotland
-* [Datasets and Digital objects](https://www.dnb.de/DE/Professionell/Services/WissenschaftundForschung/DNBLab/dnblab_node.html), Deutsche National Bibliotek
+* [Datasets and Digital objects](https://www.dnb.de/DE/Professionell/Services/WissenschaftundForschung/DNBLab/dnblab_node.html), Deutsche Nationalbibliotek
 * [GLAM Jupyter Notebooks](http://data.cervantesvirtual.com/blog/notebooks/), Biblioteca Virtual Miguel de Cervantes Labs
 * [Jupyter Notebooks using the British Library’s Digital Collections & Data](https://github.com/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources), British Library
 * [V&A Collections API Guide](https://developers.vam.ac.uk/guide/v2/welcome.html) and [Data Explorations](http://developers.vam.ac.uk/notebooks/data-explorations/intro.html), Victoria and Albert Museum
+* Swiss GLAM platforms [e-rara](https://github.com/ub-unibe-ch/ds-pytools/tree/main/web-tools/e-rara-access), [e-manuscripta](https://github.com/ub-unibe-ch/ds-pytools/tree/main/web-tools/e-manuscripta-access) and [e-periodica](https://github.com/ub-unibe-ch/ds-pytools/tree/main/web-tools/e-periodica-access), University Library Bern
 
 ## Teaching and learning
 
