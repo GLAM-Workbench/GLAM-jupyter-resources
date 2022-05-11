@@ -2,7 +2,7 @@
 
 Here are some more Jupyter notebooks and resources for exploring GLAM data.
 
-## GLAM insitutions
+## GLAM institutions
 
 * [ACMI public API – Interactive examples](https://www.acmi.net.au/api/)
 * [Collections As Data Notebooks](https://github.com/upenndigitalscholarship/collections-as-data-notebooks), Penn Libraries
